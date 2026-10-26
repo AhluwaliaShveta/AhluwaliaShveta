@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Shveta Ahluwalia 👋</h1>
+<h2 align="center">Hi, I'm Shveta Ahluwalia 👋</h2>
 <h3 align="center">AWS Data Engineer | Building scalable, reliable data platforms in the cloud</h3>
 
 ---
