@@ -7,10 +7,10 @@
 
 I'm a data engineer focused on designing and operating cloud-native data pipelines and analytics platforms on AWS. I enjoy turning raw, messy data into reliable, analytics-ready datasets, with an emphasis on scalability, cost efficiency, and data quality.
 
-- 🔭 Currently working on: lakehouse architectures and orchestrated ELT pipelines on AWS
-- 🌱 Currently learning: [e.g. Apache Iceberg, dbt, Terraform, streaming with Kinesis/MSK]
+- 🔭 Currently Focussing: lakehouse architectures and orchestrated ELT pipelines on AWS
+- 🌱 Currently Working: Apache Iceberg, dbt, Terraform, streaming with Kinesis/MSK, LLM Integrations 
 - 💬 Ask me about: AWS Glue, Redshift, Athena, Spark, Airflow, data modeling
-- 📍 Based in: [Los Angeles, CA United States]
+- 📍 Based in: Los Angeles, CA United States
 
 ---
 
